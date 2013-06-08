@@ -83,7 +83,7 @@ void feedDeck(int A1[52][2]) {
 
 int playDeck(int A1[52][2], int A2[52][2]) {
     int height = 0;
-    int maxHeight = 0; //For maxheight addition to game uncomment
+    //int maxHeight = 0; //For maxheight addition to game uncomment
     for (int i = 0; i < 52; i++) {
         A2[i][0] = 0;
         A2[i][1] = 0;
@@ -127,11 +127,11 @@ int playDeck(int A1[52][2], int A2[52][2]) {
                 }
             }
         }
-        if (height > maxHeight) //Comment out
-            maxHeight = height; //Comment out
+        //if (height > maxHeight) //Comment out
+        //    maxHeight = height; //Comment out
    }
-   if (maxHeight < 29 && height == 0) //Comment out
-       height = 1; //Comment out
+   //if (maxHeight < 29 && height == 0) //Comment out
+   //    height = 1; //Comment out
    return height;
 }
 
