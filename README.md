@@ -1,8 +1,12 @@
 Hand Solitaire Algorithm
 ========================
 
-Author: Jayden Navarro
+**Author:** Jayden Navarro
 
-Email: jdndeveloper@gmail.com
+**Email:** jdndeveloper@gmail.com
 
-Project: A hand solitaire simulation program written in C++.
+**Twitter:** @JDNdeveloper and @JaydenNavarro
+
+**Google+:** Jayden Navarro
+
+**Description:** A hand solitaire simulation program written in C++.
