@@ -1,6 +1,8 @@
 /*
  * This code is property of KyJay LLC and is being
  * provided to you through GitHub
+ * Author: Jayden Navarro
+ * Date: 6/7/2013
  */
 
 #include <iostream>
