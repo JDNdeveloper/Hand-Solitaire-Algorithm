@@ -10,5 +10,5 @@ Hand Solitaire Algorithm
 **Google+:** [Jayden Navarro](https://plus.google.com/u/0/112058447436164061508/posts)
 
 
-## Description: ## 
+## Description:
 A hand solitaire simulation program written in C++.
