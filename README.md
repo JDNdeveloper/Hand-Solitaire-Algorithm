@@ -5,6 +5,8 @@ Hand Solitaire Algorithm
 
 **Email:** jdndeveloper@gmail.com
 
+**LinkedIn:** [Jayden Navarro](https://www.linkedin.com/in/jaydennavarro)
+
 **Twitter:** [@JDNdeveloper](https://twitter.com/JDNdeveloper) and [@JaydenNavarro](https://twitter.com/JaydenNavarro)
 
 **Google+:** [JDN Developer](https://plus.google.com/u/0/+Jdndeveloper/posts) and [Jayden Navarro](https://plus.google.com/u/0/+JaydenNavarro/posts)
